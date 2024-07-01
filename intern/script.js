@@ -154,7 +154,7 @@ let previous = manual_btn[0];
 previous.classList.add('active');
 
 setInterval(() => {
-  if (j === testimonials.length) {
+  if (j === testimonials.length-1) {
     j = 0;
   }
   let store = manual_btn[j];
