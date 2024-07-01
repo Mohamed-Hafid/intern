@@ -247,5 +247,10 @@ body{
     font-size: 0.8rem;
     flex:1;
 
+
+  }
+  .manual-btn{
+    padding:3px;
+    margin:0 3px;
   }
 }
