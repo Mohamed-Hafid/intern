@@ -223,6 +223,12 @@ body{
 }
 
 @media screen and (max-width:900px) {
+  .man-image{
+    width:200px;
+  }
+  .services-image{
+    width:300px;
+  }
 .testimonials-slider{
   justify-content: space-between;
   align-items: center;
